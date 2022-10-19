@@ -1,0 +1,18 @@
+body{
+background-color: #00DBDE;
+background-image: linear-gradient(90deg, #00DBDE 0%, #FC00FF 100%);
+
+}
+.img_conteiner{
+     width: 1200px;
+     margin: 0 auto;
+}
+
+dd{
+    width: 100px;
+    left: 1100px;
+}
+img{
+    height: 300px;
+    width: 300px;
+}
